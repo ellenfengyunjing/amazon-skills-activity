@@ -1,0 +1,12 @@
+# Python scripts (optional, keep if you want to track them)
+# *.py
+
+# Text files with base64 data
+*.txt
+
+# WorkBuddy internal folder
+.workbuddy/
+
+# OS files
+.DS_Store
+Thumbs.db
